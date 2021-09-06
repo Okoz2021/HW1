@@ -246,6 +246,7 @@ print(f'Средняя оценка по домашнему заданию по 
 print()
 
 
+
 def lec_avg_grade_kurs(lecturers, course):
     mylist = []
     for lecturer in lecturers:
